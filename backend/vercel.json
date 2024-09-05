@@ -11,9 +11,6 @@
         "src": "/api/(.*)",
         "dest": "/"
       }
-    ],
-    "env": {
-      "MY_ENV_VAR": "value"
-    }
+    ]
   }
   
